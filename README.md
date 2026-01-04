@@ -1,5 +1,4 @@
 # Leetcode
-## easy
 |Task|Solution|
 |-|-|
 | [assign-cookies](https://leetcode.com/problems/assign-cookies) | [CXX](./tasks/assign-cookies.cxx) |
