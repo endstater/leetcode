@@ -2,7 +2,7 @@
 
 echo '# Leetcode' > README.md
 
-echo -e '## easy\n|Task|Solution|\n|-|-|' >> README.md
+echo -e "\n|Task|Solution|\n|-|-|' >> README.md
 
 for file in ./tasks/*; do
     [ -f "$file" ] || continue
