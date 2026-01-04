@@ -1,2 +1,2 @@
 #!/sbin/bash
-gcc ./tasks/easy/$@.c -o ./out/$@
+gcc ./tasks/$@.c -o ./out/$@

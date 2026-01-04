@@ -4,7 +4,7 @@ echo '# Leetcode' > README.md
 
 echo -e '## easy\n|Task|Solution|\n|-|-|' >> README.md
 
-for file in ./tasks/easy/*; do
+for file in ./tasks/*; do
     [ -f "$file" ] || continue
 
     filename=$(basename -- "$file")
@@ -17,5 +17,5 @@ for file in ./tasks/easy/*; do
     fi
     extension_upper=$(echo "$extension" | tr '[:lower:]' '[:upper:]')
 
-    echo "| [$name](https://leetcode.com/problems/$name) | [$extension_upper](./tasks/easy/$name.$extension) |" >> README.md
+    echo "| [$name](https://leetcode.com/problems/$name) | [$extension_upper](./tasks/$name.$extension) |" >> README.md
 done

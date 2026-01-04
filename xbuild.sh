@@ -1,2 +1,2 @@
 #!/sbin/bash
-g++ ./tasks/easy/$@.cxx -o ./out/$@
+g++ ./tasks/$@.cxx -o ./out/$@
