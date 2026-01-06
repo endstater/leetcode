@@ -7,6 +7,7 @@
 | [find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [C](./tasks/find-all-numbers-disappeared-in-an-array.c) |
 | [four-divisors](https://leetcode.com/problems/four-divisors) | [C](./tasks/four-divisors.c) |
 | [island-perimeter](https://leetcode.com/problems/island-perimeter) | [C](./tasks/island-perimeter.c) |
+| [maximum-level-sum-of-a-binary-tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [C](./tasks/maximum-level-sum-of-a-binary-tree.c) |
 | [maximum-matrix-sum](https://leetcode.com/problems/maximum-matrix-sum) | [C](./tasks/maximum-matrix-sum.c) |
 | [n-repeated-element-in-size-2n-array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [C](./tasks/n-repeated-element-in-size-2n-array.c) |
 | [plus-one](https://leetcode.com/problems/plus-one) | [C](./tasks/plus-one.c) |
